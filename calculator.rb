@@ -5,5 +5,5 @@ sum = first_number + second_number
 puts sum
 difference = first_number - second_number
 puts difference
-product = first_number + second_number
+product = first_number * second_number
 puts product
